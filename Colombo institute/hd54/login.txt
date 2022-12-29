@@ -1,0 +1,5 @@
+admin	kandy
+jhon	bsc
+nimal	bat
+user	rat
+kama	sad

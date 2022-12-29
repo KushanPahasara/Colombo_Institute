@@ -1,0 +1,8 @@
+      jhon	100	HR	Non Academic	manager
+roshan	300	Finance	Non Academic	accountant
+roy 	400	Marketing	Non Academic	counselor
+shehan	500	IT	Academic	Senior lecturer
+dasun	600	IT	Academic	lecturer
+nihal	700	Engineering	Academic	Senior lecturer
+dilshan	800	Engineering	Academic	lecturer
+nimal	200	HR	Academic	manager
